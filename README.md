@@ -9,10 +9,10 @@ Supply chain teams struggle to quickly decide which customer orders
 can be fully confirmed vs. partially fulfilled when inventory is limited.
 
  What This App Does
-Bulk Order Detection** — flags unusual orders based on historical averages
-Order Confirmation** — confirms full or partial fulfillment per customer
-Inventory Allocation** — allocates available stock using predefined rules
-Material Availability Check** — validates raw material supply before committing
+Bulk Order Detection — flags unusual orders based on historical averages
+Order Confirmation — confirms full or partial fulfillment per customer
+Inventory Allocation — allocates available stock using predefined rules
+Material Availability Check — validates raw material supply before committing
 
 Technical Stack
 - R, Shiny, bslib, tidyverse, DT, visNetwork, openxlsx
