@@ -21,4 +21,5 @@ Technical Stack
 
 | `exexution_app__1_.R` | Main Shiny app code |
 | `data.xlsx` | Input data (orders, BOM, supply) |
-![video](https://github.com/SanthoshRaj56501234/supply-chain-execution-app/blob/0e17a86d4a9786566e04c69984ae719f2febef72/Screen%20Recording%202026-03-20%20at%204.mp4)
+
+![App Demo](https://github.com/SanthoshRaj56501234/supply-chain-execution-app/blob/00e74ef47691de27cd6517a13ffe0f0854e0fc82/ScreenRecording2026-03-20at4.27.25PM-ezgif.com-video-to-gif-converter%20(1).gif)
